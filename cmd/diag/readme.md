@@ -1,7 +1,7 @@
 # Diagnostics commands 
 
 ## Diagnostics command architecture
-Diagnostics command is implemented to retrieve information from the Erigon node on a headless machine. It makes it easier to run and get information from the node as it runs on the same machine and doesn't require a PIN-secured remote connection. This is done to make the diagnostics process quicker to set up and make the entire process less resistant.
+Diagnostics command is implemented to retrieve information from the Erigon node on a headless machine. It makes it easier to run and get information from the node as it runs on the same machine and doesn't require a PIN-secured remote connection. This is done to make the diagnostics process quicker to set up and make the entire process less resistance.
 
 
 ### Diagnostics command local connection diagram
